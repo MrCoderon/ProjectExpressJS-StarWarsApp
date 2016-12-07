@@ -1,9 +1,9 @@
 # Star Wars Movie App
 
 **Phase:**
-* Project Scope: Not Complete
-* Wireframes and Architecture: Not Complete
-* Visual Design: Not Complete
+* Project Scope: Complete
+* Wireframes and Architecture: Complete
+* Visual Design: Complete
 * Development: Not Complete
 * Testing: Not Complete
 * Deployment: Not Complete
