@@ -1,0 +1,7 @@
+Branches
+
+Master
+  |
+  `---------Production
+
+git checkout 'branch you want to switch to'
