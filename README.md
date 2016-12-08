@@ -1,9 +1,6 @@
-# Star Wars Movie App
+# Star Wars Movie App Tutorial
 
 **Phase:**
-* Project Scope: Complete
-* Wireframes and Architecture: Complete
-* Visual Design: Complete
 * Development: Complete
 * Testing: Complete
 * Deployment: Complete
