@@ -14,7 +14,7 @@ Change directory into the cloned repository:
 cd ProjectExpressJS-StarWarsApp
 ```
 
-Install the Dependencies that are listed in the package.json file:
+Install the dependencies that are listed in the package.json file:
 
 ```
 npm install
