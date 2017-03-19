@@ -1,5 +1,7 @@
 # Star Wars Movie App
 
+### Live Demo: https://qc-starwarsapp.herokuapp.com/
+
 ## Installation
 
 Git clone this repository:
