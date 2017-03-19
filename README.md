@@ -1,9 +1,35 @@
-# Star Wars Movie App Tutorial
+# Star Wars Movie App
 
-**Phase:**
-* Development: Complete
-* Testing: Complete
-* Deployment: Complete
+## Installation
+
+Git clone this repository:
+
+```
+git clone https://github.com/qcollinscode/ProjectExpressJS-StarWarsApp.git
+```
+
+Change directory into the cloned repository:
+
+```
+cd ProjectExpressJS-StarWarsApp
+```
+
+Install the dependensies that are listed in the package.json file:
+
+```
+npm install
+```
+
+## Running
+
+Start the application:
+
+```
+npm start
+```
+
+Your app is not running on http://localhost:3000
+
 
 
 <img src="public/img/projectimg.png">
